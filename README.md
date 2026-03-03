@@ -37,18 +37,7 @@ Exemplo com domínio:
 [*] Scan finished in 2.45 seconds.
 
 ## 📄 Exemplo do Arquivo JSON Gerado
-[
-    {
-        "port": 80,
-        "service": "http",
-        "banner": "HTTP/1.1 200 OK"
-    },
-    {
-        "port": 443,
-        "service": "https",
-        "banner": "HTTPS - TLS handshake required"
-    }
-]
+<img width="465" height="274" alt="image" src="https://github.com/user-attachments/assets/f7ab98b6-650d-4863-b9b2-300e5121417e" />
 
 ## Autor
 Asaph Bastos
