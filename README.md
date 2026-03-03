@@ -1,7 +1,7 @@
-#🔎 TCP-Port-Scanner
+##🔎 TCP-Port-Scanner
 Scanner de portas TCP multithread desenvolvido em Python, com classificação de IP e geração de relatório em JSON.
 
-#📌 Funcionalidades
+##📌 Funcionalidades
 Escaneamento de portas TCP com alta performance
 
 Identificação automática de serviços (socket.getservbyport)
@@ -14,12 +14,12 @@ Geração automática de relatório em JSON (report.json)
 
 Interface via linha de comando
 
-#📦 Requisitos
+##📦 Requisitos
 Python 3.6 ou superior
 
 Nenhuma dependência externa necessária (usa apenas bibliotecas padrão)
 
-#🧠 Como usar
+##🧠 Como usar
 python scanner.py <alvo> <porta_inicial> <porta_final>
 
 Exemplo:
@@ -28,7 +28,7 @@ Exemplo:
 Exemplo com domínio:
   python scanner.py exemplo.com 10 200
 
-#🖥️ Exemplo de Saída no Terminal
+##🖥️ Exemplo de Saída no Terminal
 [*] Scanning 93.184.216.34 | Type: Public
 
 [+] Port 80 Open | http | HTTP/1.1 200 OK
@@ -36,7 +36,7 @@ Exemplo com domínio:
 
 [*] Scan finished in 2.45 seconds.
 
-#📄 Exemplo do Arquivo JSON Gerado
+##📄 Exemplo do Arquivo JSON Gerado
 [
     {
         "port": 80,
@@ -50,5 +50,5 @@ Exemplo com domínio:
     }
 ]
 
-#Autor
+##Autor
 Asaph Bastos
