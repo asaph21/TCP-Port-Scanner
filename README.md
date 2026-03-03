@@ -29,12 +29,8 @@ Exemplo com domínio:
   python scanner.py exemplo.com 10 200
 
 ## 🖥️ Exemplo de Saída no Terminal
-[*] Scanning 93.184.216.34 | Type: Public
+<img width="468" height="151" alt="image" src="https://github.com/user-attachments/assets/f6f2b843-6ce1-450e-a7ad-7c31ffdc0909" />
 
-[+] Port 80 Open | http | HTTP/1.1 200 OK
-[+] Port 443 Open | https | HTTPS - TLS handshake required
-
-[*] Scan finished in 2.45 seconds.
 
 ## 📄 Exemplo do Arquivo JSON Gerado
 <img width="465" height="274" alt="image" src="https://github.com/user-attachments/assets/f7ab98b6-650d-4863-b9b2-300e5121417e" />
